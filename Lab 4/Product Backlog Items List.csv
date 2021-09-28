@@ -1,0 +1,30 @@
+﻿Product Backlog Items,,,Tags,Assigned To,Deadline
+Verify Credentials against DB,,,Backend,,30-09-2021
+Add Two Factor Authentication,,,Backend,,02-10-2021
+Create User (if not exists),,,"Backend, UI",Tanvi Penumudy,29-09-2021
+Add Login via Organization Mail/Portal,,,"UI, Backend",,19-10-2021
+Send Welcome Mail to the User,,,Backend,Tanvi Penumudy,06-10-2021
+Notify Program Coordinator,,,Backend,,06-10-2021
+Add Forget Password Option,,,"Backend, UI",Tanvi Penumudy,13-10-2021
+Check if Registration Window is Open,,,"Backend, UI",,13-10-2021
+Commence Add/Drop Courses Registration once Window is Open,,,"UI, Backend",,21-10-2021
+Add Late Fine (if applicable),,,"UI, Backend",,13-09-2021
+Check if Semester Fee is Paid from DB,,,Backend,,29-09-2021
+Send Registration Confirmation Mail (if Registration is Complete),,,Backend,,05-10-2021
+Send Reminders (if Registration is not Complete),,,Backend,,29-09-2021
+Allow Updation of Personal Information,,,"Backend, Reporting, UI",,02-10-2021
+Allow Students to Add/Drop Courses,,,"UI, Backend",,28-09-2021
+Add Option for Student Service Chat,,,"UI, Backend",,09-10-2021
+Send Update Confirmation over Registered Student Mail,,,Backend,,08-10-2021
+Allow Adding Subjects to Cart,,,"Backend, UI",,03-10-2021
+Migrate Changes to Database,,,Backend,,07-10-2021
+Forward Registration Details to Program Coordinator,,,"Backend, Reporting",,09-10-2021
+View Student Names and Count in each Course,,,"Reporting, Backend",,27-09-2021
+Grant Access to Students/Course Faculty,,,Backend,,03-10-2021
+View Student Activity Log,,,"Reporting, Backend, UI",,09-10-2021
+Display List to the Course Faculty and HOD,,,"Reporting, UI",,30-09-2021
+Updation/Deletion of Courses,,,Backend,,29-09-2021
+Allow Receipt Download (if Registration is Complete),,,Backend,,30-09-2021
+Provide Modified Application Re-Download,,,Backend,,09-10-2021
+View Marks/Grades of Previous Semesters,,,"UI, Reporting",,04-10-2021
+View if applicable for Academic Scholarship,,,"UI, Backend",,16-09-2021
